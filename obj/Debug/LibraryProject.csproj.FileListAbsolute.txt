@@ -1,0 +1,14 @@
+C:\Users\dell\Downloads\bin\Debug\LibraryProject.exe.config
+C:\Users\dell\Downloads\bin\Debug\LibraryProject.exe
+C:\Users\dell\Downloads\bin\Debug\LibraryProject.pdb
+C:\Users\dell\Downloads\obj\Debug\LibraryProject.csprojAssemblyReference.cache
+C:\Users\dell\Downloads\obj\Debug\MainWindow.g.cs
+C:\Users\dell\Downloads\obj\Debug\App.g.cs
+C:\Users\dell\Downloads\obj\Debug\LibraryProject_MarkupCompile.cache
+C:\Users\dell\Downloads\obj\Debug\LibraryProject_MarkupCompile.lref
+C:\Users\dell\Downloads\obj\Debug\MainWindow.baml
+C:\Users\dell\Downloads\obj\Debug\LibraryProject.g.resources
+C:\Users\dell\Downloads\obj\Debug\LibraryProject.Properties.Resources.resources
+C:\Users\dell\Downloads\obj\Debug\LibraryProject.csproj.GenerateResource.cache
+C:\Users\dell\Downloads\obj\Debug\LibraryProject.exe
+C:\Users\dell\Downloads\obj\Debug\LibraryProject.pdb

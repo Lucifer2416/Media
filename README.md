@@ -1,5 +1,7 @@
 # Media
-It is a basic Console Application.
+Download all the files.
+Have the lastest version of visual studio to run this project successfully.
+Open the "sln" to access the entire project in Visual Studio.
 ##Overview 
 1)	An abstract Media class that contains the following properties: a string title, a string media type, a unique int serial number, an int for number of times lent, a boolean that indicates whether it is currently borrowed or available, and a string that represents the name of the library member currently borrowing the piece of media
 2)	A Book class that inherits from Media and has a page count property.

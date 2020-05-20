@@ -15,3 +15,8 @@ A DataGrid of all media in the library that shows their title, type, whether the
 Copy all the files in your Visual Studio Directory.
 OPen "Sln" file in your Visual Studio.
 You can intall "Live Server" extention to deploy the library on local server.
+
+#### Usage.
+Admin page to control members,media and books database.
+Admin portal to control members login and signup portals.
+Members portal to lend and receive books,movies and music to other members.
